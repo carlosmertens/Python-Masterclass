@@ -1,7 +1,7 @@
-"""Complete Python Masterclass Course
-
-Challange on while loops
-"""
+# Complete Python Masterclass Course
+#
+# Challange on while loops
+#
 # Modify the program below to use a while loop to
 # allow as many guesses as necessary.
 #

@@ -1,9 +1,9 @@
-"""Complete Python MasterClass Course
-
-This challenge is intended to practise for loops and if/else statements,
-so although you could use other techniques (such as splitting the string up),
-that's not the approach we're looking for here.
-"""
+# Complete Python MasterClass Course
+#
+# This challenge is intended to practise for loops and if/else statements,
+# so although you could use other techniques (such as splitting the string up),
+# that's not the approach we're looking for here.
+#
 # Create a program that takes an IP address entered at the keyboard and prints
 # out the number of segments it contains, and the length of each segment.
 #
